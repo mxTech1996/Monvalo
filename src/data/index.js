@@ -45,7 +45,7 @@ export const dataSite = {
   name: 'Monvalo',
   url: 'http://w.w.w.terra.com',
   telephone: '5516455347',
-  email: '',
+  email: 'admmonvalo@emailsecure.lat',
   address:
     'AV INSURGENTES SUR 716, 8 ALA PONIENTE, DEL VALLE CENTRO, BENITO JUAREZ, CIUDAD DE MEXICO, C.P. 03100',
   description:
